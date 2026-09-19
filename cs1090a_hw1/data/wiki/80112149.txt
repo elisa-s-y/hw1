@@ -1,0 +1,57 @@
+{{Orphan|date=August 2025}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = Hello Beautiful
+| image          = File:Theatrical_Poster,_Hello_Beautiful,_directed_by_Ziad_H._Hamzeh,_2025.jpg
+| caption        = Theatrical poster
+| director       = Ziad H. Hamzeh
+| producer     = Ziad H. Hamzeh<br/>Michael Espinosa<br/>Christine Handy<br/>Timothy Danis
+| writer         = Ziad H. Hamzeh
+| starring       = [[Tricia Helfer]]<br/>Tarek Bishara<br/>Sara Boustany<br/>Liam Anderson<br/>Susan Shalhoub Larkin<br/>Lisa Marcos<br/>Sadie Stratton<br/>Olivia Gilliatt<br/>Sayed Badreya<br/>Natacha Ellie
+
+| music          = Marco Werba
+| cinematography = Terrence Hayes
+| editing        = David Nevins
+| distributor    = [[Freestyle Releasing]]
+| released       = {{Film date|2025|04|01|Beverly Hills Film Festival|ref1=<ref>{{cite web | title=Tricia Helfer Cancer Movie Hello Beautiful Sets World Premiere, Watch Trailer &#124; Exclusive | date=14 March 2025 | url=https://www.comingsoon.net/movies/news/1938175-tricia-helfer-cancer-movie-hello-beautiful-world-premiere-trailer }}</ref>|2026|09|25|United States|ref2=<ref>{{cite web |url= https://www.hollywoodreporter.com/movies/movie-news/byron-allens-freestyle-releasing-hello-beautiful-1236689496/|title= Byron Allen’s Freestyle Releasing Acquires ‘Hello Beautiful’ For Theatrical Release (Exclusive)|date= September 4, 2026|access-date= September 4, 2026|first= Etan|last= Vlessing|work= The Hollywood Reporter}}</ref>}}
+| runtime        = 100 minutes
+| country        = United States
+| language       = English<br/>Arabic 
+| budget         =
+| gross          =
+}}
+
+'''''Hello Beautiful''''' is a 2025 American [[drama film]] written, and directed by Ziad H. Hamzeh, and starring [[Tricia Helfer]].<ref>{{cite web|url=https://filmthreat.com/reviews/hello-beautiful/|title= Film Review by Terry Sherwood |website=[[Film Threat]]|date=April 1, 2025|access-date=May 31, 2025}}</ref><ref>{{cite web|url= https://www.filmfocusonline.com/post/hello-beautiful-review|title=Review by Romey Norton|date=April 2, 2025|access-date=May 31, 2025}}</ref> The film tells a deeply emotional and inspiring story of resilience, love, and self-discovery, following a supermodel’s battle with [[breast cancer]] at the height of her career.<ref>{{cite web|url= https://cinemacy.com/hello-beautiful-review/|title=Review by Morgan Rojas|date=April 1, 2025|access-date=May 31, 2025}}</ref> The film premiered at [[Beverly Hills Film Festival]] in 2025, where it won the ''Golden Palm Award''.<ref>{{cite web|url= https://beverlyhillsfilmfestival.com/2025-at-a-glance/|title=2025 At a Glance|access-date=May 31, 2025}}</ref>
+
+==Synopsis==
+Willow Adair, a celebrated model enjoying the peak of her success, is suddenly diagnosed with breast cancer—sending her world into upheaval. As she navigates illness and personal loss, Willow embarks on a transformative journey of heartbreak, hope, and self-acceptance. Through moments of despair and triumph, she comes to understand what truly matters: the courage to fight, the grace to let go, and the power of embracing oneself. The film explores the resilience of the human spirit, the unbreakable bonds of love, and the courage it takes to rise when life falls apart.
+
+==Cast==
+* Tricia Helfer as Willow Boutrous
+* Tarek Bishara as Khalil
+* Sara Boustany as Isabel
+* Liam Anderson as Alex
+* Susan Shalhoub Larkin as Maryam
+* Lisa Marcos as Grace
+* Sadie Stratton as Maggie
+* Olivia Gilliatt as Gigi
+* Sayed Badreya as Malek
+* Natacha Ellie as Alika
+
+==Reception==
+On [[Rotten Tomatoes]], the film has an approval rating of 70% based on reviews from 10 critics.<ref>{{Cite web|url= https://www.rottentomatoes.com/m/hello_beautiful|title=Hello Beautiful|via=www.rottentomatoes.com}}</ref> Terry Sherwood of Film Threat said, " ''Hello Beautiful'' delivers the raw clarity it’s been reaching for all along. This is a film about inspiration and helping others who perhaps are suffering from this insidious disease."<ref>{{cite web|url=https://filmthreat.com/reviews/hello-beautiful/|title= Film Review by Terry Sherwood |website=[[Film Threat]]|date=April 1, 2025|access-date=May 31, 2025}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|9018874}}
+* {{rotten-tomatoes|id= hello_beautiful|title=Hello Beautiful}}
+
+[[Category:2025 films]]
+[[Category:2025 English-language films]]
+[[Category:2025 American films]]
+[[Category:American drama films]]
+[[Category:English-language drama films]]
+[[Category:Films set in Boston]]
+[[Category:Films shot in Boston]]

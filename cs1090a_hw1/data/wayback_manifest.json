@@ -1,0 +1,161 @@
+{
+  "cutoff": "20260908",
+  "completed_probes": [
+    "20240101",
+    "20240201",
+    "20240301",
+    "20240401",
+    "20240501",
+    "20240601",
+    "20240701",
+    "20240801",
+    "20240901",
+    "20241001",
+    "20241101",
+    "20241201",
+    "20250101",
+    "20250201",
+    "20250301",
+    "20250401",
+    "20250501",
+    "20250601",
+    "20250701",
+    "20250801",
+    "20250901",
+    "20251001",
+    "20251101",
+    "20251201",
+    "20260101",
+    "20260201",
+    "20260301",
+    "20260401",
+    "20260501",
+    "20260601",
+    "20260701",
+    "20260801",
+    "20260901",
+    "20260908"
+  ],
+  "captures": {
+    "20240328": {
+      "timestamp": "20240328022813",
+      "url": "https://web.archive.org/web/20240328022813id_/https://screenboston.com/"
+    },
+    "20240524": {
+      "timestamp": "20240524113056",
+      "url": "https://web.archive.org/web/20240524113056id_/https://screenboston.com/"
+    },
+    "20240621": {
+      "timestamp": "20240621141445",
+      "url": "https://web.archive.org/web/20240621141445id_/https://screenboston.com/"
+    },
+    "20240803": {
+      "timestamp": "20240803193321",
+      "url": "https://web.archive.org/web/20240803193321id_/https://screenboston.com/"
+    },
+    "20240904": {
+      "timestamp": "20240904042102",
+      "url": "https://web.archive.org/web/20240904042102id_/https://screenboston.com/"
+    },
+    "20240926": {
+      "timestamp": "20240926212400",
+      "url": "https://web.archive.org/web/20240926212400id_/https://screenboston.com/"
+    },
+    "20241101": {
+      "timestamp": "20241101032833",
+      "url": "https://web.archive.org/web/20241101032833id_/https://screenboston.com/"
+    },
+    "20241206": {
+      "timestamp": "20241206184929",
+      "url": "https://web.archive.org/web/20241206184929id_/https://screenboston.com/"
+    },
+    "20250105": {
+      "timestamp": "20250105135419",
+      "url": "https://web.archive.org/web/20250105135419id_/https://screenboston.com/"
+    },
+    "20250131": {
+      "timestamp": "20250131223855",
+      "url": "https://web.archive.org/web/20250131223855id_/https://screenboston.com/"
+    },
+    "20250217": {
+      "timestamp": "20250217011059",
+      "url": "https://web.archive.org/web/20250217011059id_/https://screenboston.com/"
+    },
+    "20250326": {
+      "timestamp": "20250326043149",
+      "url": "https://web.archive.org/web/20250326043149id_/https://screenboston.com/"
+    },
+    "20250428": {
+      "timestamp": "20250428141949",
+      "url": "https://web.archive.org/web/20250428141949id_/https://screenboston.com/"
+    },
+    "20250616": {
+      "timestamp": "20250616213537",
+      "url": "https://web.archive.org/web/20250616213537id_/https://screenboston.com/"
+    },
+    "20250622": {
+      "timestamp": "20250622150429",
+      "url": "https://web.archive.org/web/20250622150429id_/https://screenboston.com/"
+    },
+    "20250813": {
+      "timestamp": "20250813101612",
+      "url": "https://web.archive.org/web/20250813101612id_/https://screenboston.com/"
+    },
+    "20250903": {
+      "timestamp": "20250903212303",
+      "url": "https://web.archive.org/web/20250903212303id_/https://screenboston.com/"
+    },
+    "20250924": {
+      "timestamp": "20250924012416",
+      "url": "https://web.archive.org/web/20250924012416id_/https://screenboston.com/"
+    },
+    "20251021": {
+      "timestamp": "20251021112427",
+      "url": "https://web.archive.org/web/20251021112427id_/https://screenboston.com/"
+    },
+    "20251127": {
+      "timestamp": "20251127183935",
+      "url": "https://web.archive.org/web/20251127183935id_/https://screenboston.com/"
+    },
+    "20251215": {
+      "timestamp": "20251215174710",
+      "url": "https://web.archive.org/web/20251215174710id_/https://screenboston.com/"
+    },
+    "20260123": {
+      "timestamp": "20260123110242",
+      "url": "https://web.archive.org/web/20260123110242id_/https://screenboston.com/"
+    },
+    "20260312": {
+      "timestamp": "20260312134745",
+      "url": "https://web.archive.org/web/20260312134745id_/https://screenboston.com/"
+    },
+    "20260413": {
+      "timestamp": "20260413050327",
+      "url": "https://web.archive.org/web/20260413050327id_/https://screenboston.com/"
+    },
+    "20260513": {
+      "timestamp": "20260513221925",
+      "url": "https://web.archive.org/web/20260513221925id_/https://screenboston.com/"
+    },
+    "20260616": {
+      "timestamp": "20260616211045",
+      "url": "https://web.archive.org/web/20260616211045id_/https://screenboston.com/"
+    },
+    "20260708": {
+      "timestamp": "20260708173345",
+      "url": "https://web.archive.org/web/20260708173345id_/https://screenboston.com/"
+    },
+    "20260721": {
+      "timestamp": "20260721042358",
+      "url": "https://web.archive.org/web/20260721042358id_/https://screenboston.com/"
+    },
+    "20260827": {
+      "timestamp": "20260827115714",
+      "url": "https://web.archive.org/web/20260827115714id_/https://screenboston.com/"
+    },
+    "20260908": {
+      "timestamp": "20260908212419",
+      "url": "https://web.archive.org/web/20260908212419id_/https://screenboston.com/"
+    }
+  }
+}
